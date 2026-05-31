@@ -39,8 +39,19 @@ Empirical extension of [Kilian (2009)](https://doi.org/10.1257/aer.99.3.1053) th
 ---
 
 ## Repository structure
-```
-Bayesian-Time-Series-Oil-Market-Forecast/ ├── Script/ # Jupyter notebooks (analysis workflow) │ ├── kilian_07_replication.ipynb # Baseline replication │ ├── kilian_07_bvar_niw.ipynb # BVAR + NIW Gibbs (1973–2007) │ ├── Extend_bvar_niw.ipynb # Extended sample (2008–2025) │ ├── Full_bvar_niw.ipynb # Full merged sample + macro stage-2 │ └── output/ # Exported HTML figures & LaTeX tables ├── data/ # Kilian + extended CSV; merged GDP/CPI series ├── output/ # Additional figures / exports ├── Report.pdf # Full project report ├── Slide_BVAR_Oil_market_shock_decomposition.pdf └── README.md
+```text
+Bayesian-Time-Series-Oil-Market-Forecast/
+├── Script/ # Jupyter notebooks (analysis workflow)
+│ ├── kilian_07_replication.ipynb # Baseline replication
+│ ├── kilian_07_bvar_niw.ipynb # BVAR + NIW Gibbs (1973–2007)
+│ ├── Extend_bvar_niw.ipynb # Extended sample (2008–2025)
+│ ├── Full_bvar_niw.ipynb # Full merged sample + macro stage-2
+│ └── output/ # Exported HTML figures & LaTeX tables
+├── data/ # Kilian + extended CSV; merged GDP/CPI series
+├── output/ # Additional figures / exports
+├── Report.pdf # Full project report
+├── Slide_BVAR_Oil_market_shock_decomposition.pdf
+└── README.md
 ```
 
 > **Note:** Core Gibbs/NIW and IRF helpers live in `src/` in the course submission bundle (`gibbs_bvar_niw.py`, `bvar_helper.py`, `post_draw_ci.py`, `irf_bootstraps.py`). If not yet in this repo, copy `src/` from your submit folder for full reproducibility.
