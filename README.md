@@ -16,9 +16,9 @@ Empirical extension of [Kilian (2009)](https://doi.org/10.1257/aer.99.3.1053) th
 | **Macro impact** | Shock-augmented distributed-lag regressions: supply shocks → temporary GDP declines; aggregate demand → expansion then recessionary; precautionary demand → **persistent GDP decline + CPI increase** |
 | **Sample extension insight** | Cumulative oil-price decomposition: precautionary demand positive and significant pre-2008 (1979, 1980–81, 2008 GFC, 2022 Russia–Ukraine), reversing negative after 2008 |
 
-![IRF](output/figures/BSVAR_time_series.png)
-![IRF](output/figures/irf15.png)
-![IRF](output/figures/cumm_effect.png)
+![IRF](output/figure/BSVAR_time_series.png)
+![IRF](output/figure/irf15.png)
+![IRF](output/figure/cumm_effect.png)
 
 ---
 
