@@ -20,7 +20,7 @@ Empirical extension of [Kilian (2009)](https://doi.org/10.1257/aer.99.3.1053) th
 ![IRF](output/figure/irf15.png)
 ![IRF](output/figure/cumm_effect.png)
 
-[View interactive notebook notebook](Script/output/Full_bvar_niw.pdf)
+[View interactive notebook export](Script/output/Full_bvar_niw.pdf)
 ---
 
 ## Model & identification
