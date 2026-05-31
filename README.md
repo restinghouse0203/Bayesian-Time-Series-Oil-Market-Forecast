@@ -56,6 +56,7 @@ Bayesian-Time-Series-Oil-Market-Forecast/
 ├── output/ # Additional figures / exports
 ├── Report.pdf # Full project report
 ├── Slide_BVAR_Oil_market_shock_decomposition.pdf
+├── License
 └── README.md
 ```
 
@@ -90,3 +91,9 @@ jupyter notebook Script/Full_bvar_niw.ipynb
 Tony Yik-Hau Au —  [LinkedIn](https://www.linkedin.com/in/tony-au0203/) · [GitHub](https://github.com/restinghouse0203) 
 
 Co-authored with Merve Abaci (Cornell ECON 7300, Spring 2026).
+
+## ## License
+
+This project is licensed under the MIT License — see [LICENSE](LICENSE).
+
+This project is licensed under the MIT License — see [LICENSE](LICENSE).
