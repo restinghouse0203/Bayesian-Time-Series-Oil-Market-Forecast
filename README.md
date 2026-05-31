@@ -54,8 +54,6 @@ Bayesian-Time-Series-Oil-Market-Forecast/
 └── README.md
 ```
 
-> **Note:** Core Gibbs/NIW and IRF helpers live in `src/` in the course submission bundle (`gibbs_bvar_niw.py`, `bvar_helper.py`, `post_draw_ci.py`, `irf_bootstraps.py`). If not yet in this repo, copy `src/` from your submit folder for full reproducibility.
-
 ---
 
 ## Requirements
