@@ -71,3 +71,16 @@ git clone https://github.com/restinghouse0203/Bayesian-Time-Series-Oil-Market-Fo
 cd Bayesian-Time-Series-Oil-Market-Forecast
 jupyter notebook Script/Full_bvar_niw.ipynb
 ```
+
+## Data sources
+- Kilian (2009) oil-market variables (1973–2007)
+- Extended oil variables (2008–2025), merged in data/data_extended_2008_2025.csv
+- US macro series: real GDP (GDPC1) and CPI (CPIAUCSL) from FRED — merged quarterly files in data/
+
+## References
+- Kilian, L. (2009). Not All Oil Price Shocks Are Alike. American Economic Review, 99(3), 1053–1069.
+- Kilian, L., & Lütkepohl, H. (2017). Structural Vector Autoregressive Analysis. Cambridge University Press.
+
+## Author
+Tony Yik-Hau Au —  [LinkedIn](https://www.linkedin.com/in/tony-au0203/) · [GitHub](https://github.com/restinghouse0203) 
+Co-authored with Merve Abaci (Cornell ECON 7300, Spring 2026).
