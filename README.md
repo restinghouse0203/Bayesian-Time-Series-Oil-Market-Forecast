@@ -83,4 +83,5 @@ jupyter notebook Script/Full_bvar_niw.ipynb
 
 ## Author
 Tony Yik-Hau Au —  [LinkedIn](https://www.linkedin.com/in/tony-au0203/) · [GitHub](https://github.com/restinghouse0203) 
+
 Co-authored with Merve Abaci (Cornell ECON 7300, Spring 2026).
